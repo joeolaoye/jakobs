@@ -1,0 +1,24 @@
+{
+  "name": "jakobs",
+  "version": "0.0.1",
+  "description": "A User PBL engine for the Galan project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeolaoye/jakobs.git"
+  },
+  "keywords": [
+    "user",
+    "engine",
+    "pbl"
+  ],
+  "author": "@joeolaoye",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/joeolaoye/jakobs/issues"
+  },
+  "homepage": "https://github.com/joeolaoye/jakobs#readme"
+}
